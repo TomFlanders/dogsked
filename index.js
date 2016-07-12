@@ -1,5 +1,6 @@
 var express = require('express');
 var app = express();
+var fs = require("fs");
 
 app.set('port', (process.env.PORT || 5000));
 
@@ -16,6 +17,13 @@ app.get('/', function(request, response) {
 app.get('/test', function (req, res) {
   res.type('text/plain');
   res.send('This is a test');
+})
+
+app.get('/listEvents', function (req, res) {
+   fs.readFile(__dirname + "/public/bikesked.json", 'utf8', function (err, data) {
+       console.log( data );
+       res.end( data );
+   });
 })
 
 app.listen(app.get('port'), function() {
