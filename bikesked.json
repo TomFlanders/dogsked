@@ -166,12 +166,5 @@
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.sundaystreetssf.com/westernaddition-091116/"
-	},
-	"event27": {
-		"title": "Sunday Streets - Excelsior",
-		"start": "10/16/16",
-		"state": "CA",
-		"series": "Local Event",
-		"url": "http://www.sundaystreetssf.com/excelsior-101616/"
-	},
+	}
 }
