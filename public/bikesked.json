@@ -136,7 +136,7 @@
 		"series": "UCI World Tour",
 	},
 	"event22": {
-		"title": "Sunday Streets - Mission",
+		"title": "Sunday Streets – Mission",
 		"start": "08/21/16",
 		"state": "CA",
 		"series": "Local Event",
@@ -155,16 +155,30 @@
 		"series": "UCI Women's WorldTour",
 	},
 	"event25": {
-		"title": "Bretagne Classic - Ouest-France",
+		"title": "Bretagne Classic – Ouest-France",
 		"start": "08/28/16",
 		"country": "FRA",
 		"series": "UCI World Tour",
 	},
 	"event26": {
-		"title": "Sunday Streets - Western Addition",
+		"title": "Sunday Streets – Western Addition",
 		"start": "09/11/16",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.sundaystreetssf.com/westernaddition-091116/"
+	},
+	"event27": {
+		"title": "Sunday Streets – Excelsior",
+		"start": "10/16/16",
+		"state": "CA",
+		"series": "Local Event",
+		"url": "http://www.sundaystreetssf.com/excelsior-101616/"
+	},
+	"event28": {
+		"title": "Sunday Streets – Embarcadero",
+		"start": "11/13/16",
+		"state": "CA",
+		"series": "Local Event",
+		"url": "http://www.sundaystreetssf.com/embarcadero-111316/"
 	}
 }
