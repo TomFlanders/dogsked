@@ -1,161 +1,170 @@
 {
 	"event1": {
-		"title": "Giro d'Italia Internazionale Femminile ",
-		"start": "07/01/16",
-		"end": "07/10/16",
-		"country": "ITA",
-		"series": "UCI Women's WorldTour"
-	},
-	"event2": {
 		"title": "Tour de France",
 		"start": "07/02/16",
 		"end": "07/24/16",
 		"country": "FRA",
-		"series": "UCI World Tour"
+		"series": "UCI World Tour",
 	},
-	"event3": {
+	"event2": {
 		"title": "Vuelta Ciclista a Venezuela",
 		"start": "07/08/16",
 		"end": "07/17/16",
 		"country": "VEN",
-		"series": "UCI America Tour"
+		"series": "UCI America Tour",
 	},
-	"event4": {
-		"title": "White Spot / Delta Road Race",
-		"start": "07/10/16",
-		"country": "CAN",
-		"series": "UCI America Tour"
-	},
-	"event5": {
+	"event3": {
 		"title": "Tour de Pologne",
 		"start": "07/12/16",
 		"end": "07/18/16",
 		"country": "POL",
-		"series": "UCI World Tour"
+		"series": "UCI World Tour",
 	},
-	"event6": {
+	"event4": {
 		"title": "Andersen Banducci Twilight Criterium",
 		"start": "07/16/16",
 		"state": "ID",
-		"series": "USAC Pro Road Tour"
+		"series": "USAC Pro Road Tour",
 	},
-	"event7": {
+	"event5": {
+		"title": "Midnight Mystery Ride",
+		"start": "07/16/16",
+		"state": "CA",
+		"series": "Local Event",
+		"url": "http://www.midnightmystery.org/sanfrancisco/"
+	},
+	"event6": {
 		"title": "Cascade Cycling Classic",
 		"start": "07/21/16",
 		"end": "07/24/16",
 		"state": "OR",
-		"series": "USAC Pro Road Tour"
+		"series": "USAC Pro Road Tour",
+		"url": "http://www.cascadeclassic.com/"
 	},
-	"event8": {
+	"event7": {
 		"title": "Intelligentsia Cup powered by SRAM",
 		"start": "07/23/16",
 		"end": "07/24/16",
 		"state": "IL",
-		"series": "USAC Pro Road Tour"
+		"series": "USAC Pro Road Tour",
 	},
-	"event9": {
+	"event8": {
 		"title": "La Course by Le Tour de France ",
 		"start": "07/24/16",
 		"country": "FRA",
-		"series": "UCI Women's WorldTour"
+		"series": "UCI Women's WorldTour",
 	},
-	"event10": {
+	"event9": {
 		"title": "Tour Cycliste International de la Guadeloupe",
 		"start": "07/29/16",
 		"end": "08/07/16",
 		"country": "CRB",
-		"series": "UCI America Tour"
+		"series": "UCI America Tour",
 	},
-	"event11": {
+	"event10": {
 		"title": "Clasica Ciclista San Sebastian",
 		"start": "07/30/16",
 		"country": "ESP",
-		"series": "UCI World Tour"
+		"series": "UCI World Tour",
 	},
-	"event12": {
+	"event11": {
 		"title": "Prudential Ride London Grand Prix",
 		"start": "07/30/16",
 		"country": "GBR",
-		"series": "UCI Women's WorldTour"
+		"series": "UCI Women's WorldTour",
 	},
-	"event13": {
+	"event12": {
 		"title": "The Larry H.Miller Tour of Utah",
 		"start": "08/01/16",
 		"end": "08/07/16",
 		"country": "USA",
-		"series": "UCI America Tour"
+		"series": "UCI America Tour",
 	},
-	"event14": {
+	"event13": {
 		"title": "Littleton Twilight Criterium",
 		"start": "08/06/16",
 		"state": "CO",
-		"series": "USAC Pro Road Tour"
+		"series": "USAC Pro Road Tour",
 	},
-	"event15": {
+	"event14": {
 		"title": "Olympic Games: Men's Road Race",
 		"start": "08/06/16",
 		"country": "BRA",
-		"series": "Olympics"
+		"series": "Olympics",
 	},
-	"event16": {
+	"event15": {
 		"title": "Olympic Games: Women's Road Race",
 		"start": "08/07/16",
 		"country": "BRA",
-		"series": "Olympics"
+		"series": "Olympics",
 	},
-	"event17": {
+	"event16": {
 		"title": "Olympic Games: Individual Time Trial",
 		"start": "08/10/16",
 		"country": "BRA",
-		"series": "Olympics"
+		"series": "Olympics",
 	},
-	"event18": {
+	"event17": {
 		"title": "Rochester Twilight Criterium",
 		"start": "08/13/16",
 		"state": "NY",
-		"series": "USAC Pro Road Tour"
+		"series": "USAC Pro Road Tour",
 	},
-	"event19": {
+	"event18": {
 		"title": "Crescent Women World Cup Vargarda TTT",
 		"start": "08/19/16",
 		"country": "SWE",
-		"series": "UCI Women's WorldTour"
+		"series": "UCI Women's WorldTour",
 	},
-	"event20": {
+	"event19": {
 		"title": "Vuelta a Espana ",
 		"start": "08/20/16",
 		"end": "09/11/16",
 		"country": "ESP",
-		"series": "UCI World Tour"
+		"series": "UCI World Tour",
 	},
-	"event21": {
+	"event20": {
 		"title": "Crescent Women World Cup Vargarda ",
 		"start": "08/21/16",
 		"country": "SWE",
-		"series": "UCI Women's WorldTour"
+		"series": "UCI Women's WorldTour",
 	},
-	"event22": {
+	"event21": {
 		"title": "Cyclassics Hamburg ",
 		"start": "08/21/16",
 		"country": "GER",
-		"series": "UCI World Tour"
+		"series": "UCI World Tour",
+	},
+	"event22": {
+		"title": "Sunday Streets - Mission",
+		"start": "08/21/16",
+		"state": "CA",
+		"series": "Local Event",
+		"url": "http://www.sundaystreetssf.com/mission-082116/"
 	},
 	"event23": {
 		"title": "Chris Thater Memorial",
 		"start": "08/27/16",
 		"state": "NY",
-		"series": "USAC Pro Road Tour"
+		"series": "USAC Pro Road Tour",
 	},
 	"event24": {
 		"title": "GP de Plouay-Bretagne",
 		"start": "08/27/16",
 		"country": "FRA",
-		"series": "UCI Women's WorldTour"
+		"series": "UCI Women's WorldTour",
 	},
 	"event25": {
 		"title": "Bretagne Classic - Ouest-France",
 		"start": "08/28/16",
 		"country": "FRA",
-		"series": "UCI World Tour"
+		"series": "UCI World Tour",
+	},
+	"event26": {
+		"title": "Sunday Streets - Western Addition",
+		"start": "09/11/16",
+		"state": "CA",
+		"series": "Local Event",
+		"url": "http://www.sundaystreetssf.com/westernaddition-091116/"
 	}
 }
