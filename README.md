@@ -1,39 +1,23 @@
-# node-js-getting-started
+# dogsked
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+A simple API for bicycle event schedules
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+## Usage
+Output format: JSON
 
-## Running Locally
+URL: https://dogsked.herokuapp.com/listevents
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
+## Data Sources
+-UCI World Tour: http://www.uci.ch/
+-UCI America Tour: Confederacion Panamerica de Ciclismo
+-USAC Pro Road Tour: https://www.usacycling.org/
+-NCNCA: http://www.ncnca.org/
+-Local Event: Assorted
+  
+## Future Enhancements
+Queries on all fields
 
-```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
-$ npm install
-$ npm start
-```
+Ability to add events through API
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
-
-## Deploying to Heroku
-
-```
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-or
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-## Documentation
-
-For more information about using Node.js on Heroku, see these Dev Center articles:
-
-- [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
-- [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
-- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-- [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+## License
+**TBD**
