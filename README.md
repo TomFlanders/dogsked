@@ -19,4 +19,4 @@ URL: https://dogsked.herokuapp.com/listevents
 - Ability to add events through API
 
 ## License
-**TBD**
+GNU GENERAL PUBLIC LICENSE Version 3
