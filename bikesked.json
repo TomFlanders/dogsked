@@ -1,300 +1,444 @@
 {
 	"event1": {
-		"title": "Tour de France",
-		"start": "07/02/2016",
-		"end": "07/24/2016",
-		"country": "FRA",
-		"series": "UCI World Tour"
+		"title": "Crescent Vargarda UCI Women's WorldTour",
+		"start": "08/19/2016",
+		"end": "08/19/2016",
+		"country": "SWE",
+		"series": "UCI World Women's Tour",
+		"url": "http://www.vargardacycling.se/"
 	},
 	"event2": {
-		"title": "Vuelta Ciclista a Venezuela",
-		"start": "07/08/2016",
-		"end": "07/17/2016",
-		"country": "VEN",
-		"series": "UCI America Tour"
-	},
-	"event3": {
-		"title": "Tour de Pologne",
-		"start": "07/12/2016",
-		"end": "07/18/2016",
-		"country": "POL",
-		"series": "UCI World Tour"
-	},
-	"event4": {
-		"title": "Andersen Banducci Twilight Criterium",
-		"start": "07/16/2016",
-		"state": "ID",
-		"series": "USAC Pro Road Tour"
-	},
-	"event5": {
 		"title": "Midnight Mystery Ride",
-		"start": "07/16/2016",
+		"start": "08/20/2016",
+		"end": "08/20/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event6": {
-		"title": "Cascade Cycling Classic",
-		"start": "07/21/2016",
-		"end": "07/24/2016",
-		"state": "OR",
-		"series": "USAC Pro Road Tour"
-	},
-	"event7": {
-		"title": "Intelligentsia Cup powered by SRAM",
-		"start": "07/23/2016",
-		"end": "07/24/2016",
-		"state": "IL",
-		"series": "USAC Pro Road Tour"
-	},
-	"event8": {
-		"title": "La Course by Le Tour de France ",
-		"start": "07/24/2016",
-		"country": "FRA",
-		"series": "UCI Women's WorldTour"
-	},
-	"event9": {
-		"title": "Tour Cycliste International de la Guadeloupe",
-		"start": "07/29/2016",
-		"end": "08/07/2016",
-		"country": "CRB",
-		"series": "UCI America Tour"
-	},
-	"event10": {
-		"title": "SF Critical Mass",
-		"start": "07/29/2016",
+	"event3": {
+		"title": "NCNCA Masters Road Championships - San Ardo Road Race - VP#18 CC#5",
+		"start": "08/20/2016",
+		"end": "08/20/2016",
 		"state": "CA",
-		"series": "Local Event",
-		"url": "http://www.sfcriticalmass.org/"
+		"series": "NCNCA"
 	},
-	"event11": {
-		"title": "Clasica Ciclista San Sebastian",
-		"start": "07/30/2016",
-		"country": "ESP",
-		"series": "UCI World Tour"
-	},
-	"event12": {
-		"title": "Prudential Ride London Grand Prix",
-		"start": "07/30/2016",
-		"country": "GBR",
-		"series": "UCI Women's WorldTour"
-	},
-	"event13": {
-		"title": "The Larry H.Miller Tour of Utah",
-		"start": "08/01/2016",
-		"end": "08/07/2016",
-		"country": "USA",
-		"series": "UCI America Tour"
-	},
-	"event14": {
-		"title": "SF Bike Party",
-		"start": "08/05/2016",
-		"state": "CA",
-		"series": "Local Event",
-		"url": "https://sfbikeparty.wordpress.com/"
-	},
-	"event15": {
-		"title": "Littleton Twilight Criterium",
-		"start": "08/06/2016",
-		"state": "CO",
-		"series": "USAC Pro Road Tour"
-	},
-	"event16": {
-		"title": "Olympic Games: Men's Road Race",
-		"start": "08/06/2016",
-		"country": "BRA",
-		"series": "Olympics"
-	},
-	"event17": {
-		"title": "Olympic Games: Women's Road Race",
-		"start": "08/07/2016",
-		"country": "BRA",
-		"series": "Olympics"
-	},
-	"event18": {
-		"title": "Olympic Games: Individual Time Trial",
-		"start": "08/10/2016",
-		"country": "BRA",
-		"series": "Olympics"
-	},
-	"event19": {
-		"title": "Rochester Twilight Criterium",
-		"start": "08/13/2016",
-		"state": "NY",
-		"series": "USAC Pro Road Tour"
-	},
-	"event20": {
-		"title": "Crescent Women World Cup Vargarda TTT",
-		"start": "08/19/2016",
-		"country": "SWE",
-		"series": "UCI Women's WorldTour"
-	},
-	"event21": {
-		"title": "Vuelta a Espana ",
+	"event4": {
+		"title": "Vuelta a Espa&ntilde;a",
 		"start": "08/20/2016",
 		"end": "09/11/2016",
 		"country": "ESP",
-		"series": "UCI World Tour"
+		"series": "UCI World Tour",
+		"url": "http://www.lavuelta.com/"
 	},
-	"event22": {
-		"title": "Midnight Mystery Ride",
+	"event5": {
+		"title": "Eneco Tour",
 		"start": "08/20/2016",
-		"state": "CA",
-		"series": "Local Event",
-		"url": "http://www.midnightmystery.org/sanfrancisco/"
+		"end": "09/11/2016",
+		"country": "ESP",
+		"series": "UCI World Tour",
+		"url": "http://www.sport.be/enecotour/"
 	},
-	"event23": {
-		"title": "Crescent Women World Cup Vargarda ",
+	"event6": {
+		"title": "Cyclassics Hamburg",
 		"start": "08/21/2016",
-		"country": "SWE",
-		"series": "UCI Women's WorldTour"
-	},
-	"event24": {
-		"title": "Cyclassics Hamburg ",
-		"start": "08/21/2016",
+		"end": "08/21/2016",
 		"country": "GER",
-		"series": "UCI World Tour"
+		"series": "UCI World Tour",
+		"url": "http://www.vattenfall-cyclassics.de/index.php/en"
 	},
-	"event25": {
+	"event7": {
+		"title": "Crescent Vargarda UCI Women's WorldTour TTT",
+		"start": "08/21/2016",
+		"end": "08/21/2016",
+		"country": "SWE",
+		"series": "UCI World Women's Tour",
+		"url": "http://www.vargardacycling.se/"
+	},
+	"event8": {
 		"title": "Sunday Streets - Mission",
 		"start": "08/21/2016",
+		"end": "08/21/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.sundaystreetssf.com/mission-082116/"
 	},
-	"event26": {
+	"event9": {
+		"title": "Red Kite Omnium Event #14 - Tempus Fugit Time Trial (Summer)",
+		"start": "08/21/2016",
+		"end": "08/21/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event10": {
+		"title": "University Road Race - VP#19 CC#6",
+		"start": "08/21/2016",
+		"end": "08/21/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event11": {
 		"title": "SF Critical Mass",
 		"start": "08/26/2016",
+		"end": "08/26/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.sfcriticalmass.org/"
 	},
-	"event27": {
-		"title": "Chris Thater Memorial",
-		"start": "08/27/2016",
-		"state": "NY",
-		"series": "USAC Pro Road Tour"
-	},
-	"event28": {
+	"event12": {
 		"title": "GP de Plouay-Bretagne",
 		"start": "08/27/2016",
+		"end": "08/27/2016",
 		"country": "FRA",
-		"series": "UCI Women's WorldTour"
+		"series": "UCI World Women's Tour",
+		"url": "http://www.grandprix-plouay.com/"
 	},
-	"event29": {
+	"event13": {
+		"title": "NCNCA Elite Road Championships - Winters Road Race - VP#20 CC#7",
+		"start": "08/27/2016",
+		"end": "08/27/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event14": {
+		"title": "Chris Thater Memorial",
+		"start": "08/27/2016",
+		"end": "08/27/2016",
+		"state": "NY",
+		"series": "USAC Pro Road Tour",
+		"url": "http://www.gobroomecounty.com/bcstopdwi/thater"
+	},
+	"event15": {
 		"title": "Bretagne Classic - Ouest-France",
 		"start": "08/28/2016",
+		"end": "08/28/2016",
 		"country": "FRA",
-		"series": "UCI World Tour"
+		"series": "UCI World Tour",
+		"url": "http://www.grandprix-plouay.com/"
 	},
-	"event30": {
+	"event16": {
+		"title": "Grand Prix Cycliste de Qu&eacute;bec",
+		"start": "08/28/2016",
+		"end": "08/28/2016",
+		"country": "FRA",
+		"series": "UCI World Tour",
+		"url": "http://gpcqm.ca/"
+	},
+	"event17": {
+		"title": "Vacaville Gran Prix - VP#21 CC#8",
+		"start": "08/28/2016",
+		"end": "08/28/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event18": {
+		"title": "Tour of Alberta",
+		"start": "08/31/2016",
+		"end": "09/05/2016",
+		"country": "CDN",
+		"series": "UCI America Tour"
+	},
+	"event19": {
 		"title": "SF Bike Party",
 		"start": "09/02/2016",
+		"end": "09/02/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
-	"event31": {
-		"title": "Giro di San Francisco",
-		"start": "09/05/2016",
-		"state": "CA",
-		"series": "NCNCA",
-		"url": "http://www.ncnca.org/"
+	"event20": {
+		"title": "The TSG Realty Gateway Cup",
+		"start": "09/02/2016",
+		"end": "09/05/2016",
+		"state": "",
+		"series": "USAC Pro Road Tour",
+		"url": "http://gatewaycup.com"
 	},
-	"event32": {
+	"event21": {
+		"title": "Red Kite Omnium Event #15 - Red Kite Omnium Championship Weekend: Day 1",
+		"start": "09/03/2016",
+		"end": "09/03/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event22": {
+		"title": "NCNCA Masters Criterium Championships - Red Kite Omnium Event #15 - Red Kite Omnium Championship Weekend: Day 2",
+		"start": "09/04/2016",
+		"end": "09/04/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event23": {
+		"title": "Giro di San Francisco - VP#22 CC#9",
+		"start": "09/05/2016",
+		"end": "09/05/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event24": {
+		"title": "The Reading 120",
+		"start": "09/10/2016",
+		"end": "09/10/2016",
+		"state": "PA",
+		"series": "USAC Pro Road Tour",
+		"url": "http://www.reading120.com/"
+	},
+	"event25": {
+		"title": "The Reading 120",
+		"start": "09/10/2016",
+		"end": "09/10/2016",
+		"country": "USA",
+		"series": "UCI America Tour"
+	},
+	"event26": {
+		"title": "Cancelled- Challenge Challenge Road Race - VP#23 CC#10",
+		"start": "09/10/2016",
+		"end": "09/10/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event27": {
+		"title": "Cancelled -- 54th Mt. Tamalpais Hill Climb",
+		"start": "09/10/2016",
+		"end": "09/10/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event28": {
+		"title": "Thompson Criterium of Doylestown",
+		"start": "09/11/2016",
+		"end": "09/11/2016",
+		"state": "PA",
+		"series": "USAC Pro Road Tour",
+		"url": "http://www.buckscountyclassic.com/"
+	},
+	"event29": {
+		"title": "Madrid Challenge by La Vuelta",
+		"start": "09/11/2016",
+		"end": "09/11/2016",
+		"country": "ESP",
+		"series": "UCI World Women's Tour",
+		"url": "http://www.lavuelta.com/madrid-challenge/2015/es/"
+	},
+	"event30": {
 		"title": "Sunday Streets - Western Addition",
 		"start": "09/11/2016",
+		"end": "09/11/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.sundaystreetssf.com/westernaddition-091116/"
 	},
+	"event31": {
+		"title": "Grand Prix Cycliste de Montr&eacute;al",
+		"start": "09/11/2016",
+		"end": "09/11/2016",
+		"country": "CDN",
+		"series": "UCI World Tour",
+		"url": "http://gpcqm.ca/"
+	},
+	"event32": {
+		"title": "Central Coast Road Series #9",
+		"start": "09/11/2016",
+		"end": "09/11/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
 	"event33": {
+		"title": "Mayor&#39;s Cup Boston",
+		"start": "09/17/2016",
+		"end": "09/17/2016",
+		"state": "MA",
+		"series": "USAC Pro Road Tour",
+		"url": "http://www.bostoncyclingcelebration.com/"
+	},
+	"event34": {
 		"title": "Midnight Mystery Ride",
 		"start": "09/17/2016",
+		"end": "09/17/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event34": {
+	"event35": {
+		"title": "Esparto Time Trial - VP#24 CC#11",
+		"start": "09/17/2016",
+		"end": "09/17/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event36": {
+		"title": "Fremont Peak Hill Climb",
+		"start": "09/18/2016",
+		"end": "09/18/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event37": {
+		"title": "NCNCA Elite Criterium Championships - 12th Annual Oakland Grand Prix - VP#25 CC#12",
+		"start": "09/18/2016",
+		"end": "09/18/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event38": {
+		"title": "InterBike",
+		"start": "09/21/2016",
+		"end": "09/23/2016",
+		"state": "NV",
+		"series": "Local Event",
+		"url": "http://www.interbike.com/"
+	},
+	"event39": {
+		"title": "Henleyville Road Race - VP#26",
+		"start": "09/24/2016",
+		"end": "09/24/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event40": {
+		"title": "Copa Am?rica de Ciclismo",
+		"start": "09/25/2016",
+		"end": "09/25/2016",
+		"country": "BRZ",
+		"series": "UCI America Tour"
+	},
+	"event41": {
+		"title": "Mt Diablo Challenge Hill Climb",
+		"start": "09/25/2016",
+		"end": "09/25/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event42": {
+		"title": "New England Builder's Ball",
+		"start": "09/30/2016",
+		"end": "09/30/2016",
+		"state": "MA",
+		"series": "Local Event",
+		"url": "http://newenglandbuildersball.com/"
+	},
+	"event43": {
 		"title": "SF Critical Mass",
 		"start": "09/30/2016",
+		"end": "09/30/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.sfcriticalmass.org/"
 	},
-	"event35": {
+	"event44": {
+		"title": "Il Lombardia",
+		"start": "10/01/2016",
+		"end": "10/01/2016",
+		"country": "ITA",
+		"series": "UCI World Tour",
+		"url": "http://www.gazzetta.it/Speciali/GiroLombardia/en/"
+	},
+	"event45": {
+		"title": "Previous Edition",
+		"start": "10/01/2016",
+		"end": "10/01/2016",
+		"country": "ITA",
+		"series": "UCI World Tour",
+		"url": "http://www.uci.ch/road/ucievents/2015-road-uci-worldtour/360432015/"
+	},
+	"event46": {
+		"title": "Tobago Cycling Classic",
+		"start": "10/02/2016",
+		"end": "10/02/2016",
+		"country": "TRI",
+		"series": "UCI America Tour"
+	},
+	"event47": {
 		"title": "SF Bike Party",
 		"start": "10/07/2016",
+		"end": "10/07/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
-	"event36": {
+	"event48": {
+		"title": "Bicycle Tour & Travel Expo",
+		"start": "10/07/2016",
+		"end": "10/09/2016",
+		"state": "OH",
+		"series": "Local Event",
+		"url": "http://www.bicycletourandtravelexpo.com/"
+	},
+	"event49": {
 		"title": "Midnight Mystery Ride",
 		"start": "10/15/2016",
+		"end": "10/15/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event37": {
+	"event50": {
 		"title": "Sunday Streets - Excelsior",
 		"start": "10/16/2016",
+		"end": "10/16/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.sundaystreetssf.com/excelsior-101616/"
 	},
-	"event38": {
+	"event51": {
 		"title": "SF Critical Mass",
 		"start": "10/28/2016",
+		"end": "10/28/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.sfcriticalmass.org/"
 	},
-	"event39": {
+	"event52": {
 		"title": "SF Bike Party",
 		"start": "11/04/2016",
+		"end": "11/04/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
-	"event40": {
+	"event53": {
 		"title": "Sunday Streets - Embarcadero",
 		"start": "11/13/2016",
+		"end": "11/13/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.sundaystreetssf.com/embarcadero-111316/"
 	},
-	"event41": {
+	"event54": {
 		"title": "Midnight Mystery Ride",
 		"start": "11/19/2016",
+		"end": "11/19/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event42": {
+	"event55": {
 		"title": "SF Critical Mass",
 		"start": "11/25/2016",
+		"end": "11/25/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.sfcriticalmass.org/"
 	},
-	"event43": {
+	"event56": {
 		"title": "SF Bike Party",
 		"start": "12/02/2016",
+		"end": "12/02/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
-	"event44": {
+	"event57": {
 		"title": "Midnight Mystery Ride",
 		"start": "12/17/2016",
+		"end": "12/17/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event45": {
+	"event58": {
 		"title": "SF Critical Mass",
 		"start": "12/30/2016",
+		"end": "12/30/2016",
 		"state": "CA",
 		"series": "Local Event",
 		"url": "http://www.sfcriticalmass.org/"

@@ -12,7 +12,7 @@ app.use(express.static(__dirname + '/public'));
 
 app.get('/', function (req, res) {
   res.type('text/plain');
-  res.send('This is a test');
+  res.send('Usage: Add "/listEvents" to the URL');
 })
 
 app.get('/listEvents', function (req, res) {
