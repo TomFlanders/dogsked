@@ -22,6 +22,12 @@ app.get('/listEvents', function (req, res) {
    });
 })
 
+app.use(function(req,res,next){
+  res.type('text/plain');
+  res.status(404);
+  res.send('Usage: Add "/listEvents" to the URL');
+});
+
 app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));
 });
