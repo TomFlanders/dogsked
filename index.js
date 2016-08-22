@@ -12,7 +12,7 @@ app.use(express.static(__dirname + '/public'));
 
 app.get('/', function (req, res) {
   res.type('text/plain');
-  res.send('Usage: Add "/listEvents" to the URL');
+  res.send('Usage: https://dogsked.herokuapp.com/listevents');
 })
 
 app.get('/listEvents', function (req, res) {
@@ -25,7 +25,7 @@ app.get('/listEvents', function (req, res) {
 app.use(function(req,res,next){
   res.type('text/plain');
   res.status(404);
-  res.send('Usage: Add "/listEvents" to the URL');
+  res.send('Usage: https://dogsked.herokuapp.com/listevents');
 });
 
 app.listen(app.get('port'), function() {
