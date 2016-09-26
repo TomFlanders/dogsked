@@ -1,79 +1,13 @@
 {
 	"event1": {
-		"title": "Mayor&#39;s Cup Boston",
-		"start": "09/17/2016",
-		"end": "09/17/2016",
-		"state": "MA",
-		"series": "USAC Pro Road Tour",
-		"url": "http://www.bostoncyclingcelebration.com/"
-	},
-	"event2": {
-		"title": "Esparto Time Trial - VP#24 CC#11",
-		"start": "09/17/2016",
-		"end": "09/17/2016",
-		"state": "CA",
-		"series": "NCNCA"
-	},
-	"event3": {
-		"title": "Midnight Mystery Ride",
-		"start": "09/17/2016",
-		"end": "09/17/2016",
+		"title": "San Francisco Critical Mass",
+		"start": "09/30/2016",
+		"end": "09/30/2016",
 		"state": "CA",
 		"series": "Ride",
-		"url": "http://www.midnightmystery.org/sanfrancisco/"
+		"url": "http://www.sfcriticalmass.org/"
 	},
-	"event4": {
-		"title": "Tour de Fat",
-		"start": "09/17/2016",
-		"end": "09/17/2016",
-		"state": "CA",
-		"series": "Festival",
-		"url": "http://www.newbelgium.com/events/tour-de-fat/sanfrancisco"
-	},
-	"event5": {
-		"title": "Cancelled--Fremont Peak Hill Climb",
-		"start": "09/18/2016",
-		"end": "09/18/2016",
-		"state": "CA",
-		"series": "NCNCA"
-	},
-	"event6": {
-		"title": "NCNCA Elite Criterium Championships - 12th Annual Oakland Grand Prix - VP#25 CC#12",
-		"start": "09/18/2016",
-		"end": "09/18/2016",
-		"state": "CA",
-		"series": "NCNCA"
-	},
-	"event7": {
-		"title": "InterBike",
-		"start": "09/21/2016",
-		"end": "09/23/2016",
-		"state": "NV",
-		"series": "Expo",
-		"url": "http://www.interbike.com/"
-	},
-	"event8": {
-		"title": "Henleyville Road Race - VP#26",
-		"start": "09/24/2016",
-		"end": "09/24/2016",
-		"state": "CA",
-		"series": "NCNCA"
-	},
-	"event9": {
-		"title": "Copa Am?rica de Ciclismo",
-		"start": "09/25/2016",
-		"end": "09/25/2016",
-		"country": "BRZ",
-		"series": "UCI America Tour"
-	},
-	"event10": {
-		"title": "Mt Diablo Challenge Hill Climb",
-		"start": "09/25/2016",
-		"end": "09/25/2016",
-		"state": "CA",
-		"series": "NCNCA"
-	},
-	"event11": {
+	"event2": {
 		"title": "New England Builder's Ball",
 		"start": "09/30/2016",
 		"end": "09/30/2016",
@@ -81,15 +15,7 @@
 		"series": "Expo",
 		"url": "http://newenglandbuildersball.com/"
 	},
-	"event12": {
-		"title": "SF Critical Mass",
-		"start": "09/30/2016",
-		"end": "09/30/2016",
-		"state": "CA",
-		"series": "Ride",
-		"url": "http://www.sfcriticalmass.org/"
-	},
-	"event13": {
+	"event3": {
 		"title": "Chicago Unconventional Bike Expo",
 		"start": "09/30/2016",
 		"end": "10/02/2016",
@@ -97,7 +23,7 @@
 		"series": "Expo",
 		"url": "http://cube-expo.com/"
 	},
-	"event14": {
+	"event4": {
 		"title": "Il Lombardia",
 		"start": "10/01/2016",
 		"end": "10/01/2016",
@@ -105,7 +31,7 @@
 		"series": "UCI World Tour",
 		"url": "http://www.gazzetta.it/Speciali/GiroLombardia/en/"
 	},
-	"event15": {
+	"event5": {
 		"title": "Previous Edition",
 		"start": "10/01/2016",
 		"end": "10/01/2016",
@@ -113,14 +39,14 @@
 		"series": "UCI World Tour",
 		"url": "http://www.uci.ch/road/ucievents/2015-road-uci-worldtour/360432015/"
 	},
-	"event16": {
+	"event6": {
 		"title": "Tobago Cycling Classic",
 		"start": "10/02/2016",
 		"end": "10/02/2016",
 		"country": "TRI",
 		"series": "UCI America Tour"
 	},
-	"event17": {
+	"event7": {
 		"title": "SF Bike Party",
 		"start": "10/07/2016",
 		"end": "10/07/2016",
@@ -128,7 +54,7 @@
 		"series": "Ride",
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
-	"event18": {
+	"event8": {
 		"title": "Handmade Bike and Beer Festival",
 		"start": "10/07/2016",
 		"end": "10/08/2016",
@@ -136,7 +62,7 @@
 		"series": "Expo",
 		"url": "http://www.handmadebikeandbeerfestival.com/"
 	},
-	"event19": {
+	"event9": {
 		"title": "Bicycle Tour & Travel Expo",
 		"start": "10/07/2016",
 		"end": "10/09/2016",
@@ -144,7 +70,7 @@
 		"series": "Expo",
 		"url": "http://www.bicycletourandtravelexpo.com/"
 	},
-	"event20": {
+	"event10": {
 		"title": "Midnight Mystery Ride",
 		"start": "10/15/2016",
 		"end": "10/15/2016",
@@ -152,7 +78,7 @@
 		"series": "Ride",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event21": {
+	"event11": {
 		"title": "Sunday Streets - Excelsior",
 		"start": "10/16/2016",
 		"end": "10/16/2016",
@@ -160,15 +86,15 @@
 		"series": "Festival",
 		"url": "http://www.sundaystreetssf.com/excelsior-101616/"
 	},
-	"event22": {
-		"title": "SF Critical Mass",
+	"event12": {
+		"title": "San Francisco Critical Mass",
 		"start": "10/28/2016",
 		"end": "10/28/2016",
 		"state": "CA",
 		"series": "Ride",
 		"url": "http://www.sfcriticalmass.org/"
 	},
-	"event23": {
+	"event13": {
 		"title": "San Diego CicloSDias",
 		"start": "10/30/2016",
 		"end": "10/30/2016",
@@ -176,7 +102,7 @@
 		"series": "Festival",
 		"url": "https://www.facebook.com/ciclosdias/"
 	},
-	"event24": {
+	"event14": {
 		"title": "SF Bike Party",
 		"start": "11/04/2016",
 		"end": "11/04/2016",
@@ -184,7 +110,15 @@
 		"series": "Ride",
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
-	"event25": {
+	"event15": {
+		"title": "North American Bike Share Conference",
+		"start": "11/09/2016",
+		"end": "11/11/2016",
+		"state": "TX",
+		"series": "Conf",
+		"url": "http://nabsa.net/"
+	},
+	"event16": {
 		"title": "Sunday Streets - Embarcadero",
 		"start": "11/13/2016",
 		"end": "11/13/2016",
@@ -192,7 +126,7 @@
 		"series": "Festival",
 		"url": "http://www.sundaystreetssf.com/embarcadero-111316/"
 	},
-	"event26": {
+	"event17": {
 		"title": "Midnight Mystery Ride",
 		"start": "11/19/2016",
 		"end": "11/19/2016",
@@ -200,15 +134,15 @@
 		"series": "Ride",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event27": {
-		"title": "SF Critical Mass",
+	"event18": {
+		"title": "San Francisco Critical Mass",
 		"start": "11/25/2016",
 		"end": "11/25/2016",
 		"state": "CA",
 		"series": "Ride",
 		"url": "http://www.sfcriticalmass.org/"
 	},
-	"event28": {
+	"event19": {
 		"title": "SF Bike Party",
 		"start": "12/02/2016",
 		"end": "12/02/2016",
@@ -216,7 +150,7 @@
 		"series": "Ride",
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
-	"event29": {
+	"event20": {
 		"title": "Midnight Mystery Ride",
 		"start": "12/17/2016",
 		"end": "12/17/2016",
@@ -224,8 +158,8 @@
 		"series": "Ride",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event30": {
-		"title": "SF Critical Mass",
+	"event21": {
+		"title": "San Francisco Critical Mass",
 		"start": "12/30/2016",
 		"end": "12/30/2016",
 		"state": "CA",
