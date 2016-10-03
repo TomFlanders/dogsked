@@ -111,17 +111,17 @@
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
 	"event15": {
-		"title": "<td>Gran Premio de San Jos?</td>",
+		"title": "Gran Premio de San Jos?",
 		"start": "12/11/2016",
 		"end": "12/11/2016",
-		"state": "",
+		"state": "CR",
 		"series": "UCI America Tour"
 	},
 	"event16": {
 		"title": "Vuelta Popular a Costa Rica",
 		"start": "12/13/2016",
 		"end": "12/25/2016",
-		"state": "",
+		"state": "CR",
 		"series": "UCI America Tour"
 	},
 	"event17": {
