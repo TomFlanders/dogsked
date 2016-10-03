@@ -8,6 +8,13 @@
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
 	"event2": {
+		"title": "Mount Diablo State Park Historic Road Cyclists Safety Improvements Event",
+		"start": "10/07/2016",
+		"end": "10/07/2016",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event3": {
 		"title": "Handmade Bike and Beer Festival",
 		"start": "10/07/2016",
 		"end": "10/08/2016",
@@ -15,7 +22,7 @@
 		"series": "Expo",
 		"url": "http://www.handmadebikeandbeerfestival.com/"
 	},
-	"event3": {
+	"event4": {
 		"title": "Bicycle Tour & Travel Expo",
 		"start": "10/07/2016",
 		"end": "10/09/2016",
@@ -23,7 +30,7 @@
 		"series": "Expo",
 		"url": "http://www.bicycletourandtravelexpo.com/"
 	},
-	"event4": {
+	"event5": {
 		"title": "Midnight Mystery Ride",
 		"start": "10/15/2016",
 		"end": "10/15/2016",
@@ -31,7 +38,7 @@
 		"series": "Ride",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event5": {
+	"event6": {
 		"title": "Sunday Streets - Excelsior",
 		"start": "10/16/2016",
 		"end": "10/16/2016",
@@ -39,7 +46,7 @@
 		"series": "Festival",
 		"url": "http://www.sundaystreetssf.com/excelsior-101616/"
 	},
-	"event6": {
+	"event7": {
 		"title": "San Francisco Critical Mass",
 		"start": "10/28/2016",
 		"end": "10/28/2016",
@@ -47,7 +54,7 @@
 		"series": "Ride",
 		"url": "http://www.sfcriticalmass.org/"
 	},
-	"event7": {
+	"event8": {
 		"title": "San Diego CicloSDias",
 		"start": "10/30/2016",
 		"end": "10/30/2016",
@@ -55,7 +62,7 @@
 		"series": "Festival",
 		"url": "https://www.facebook.com/ciclosdias/"
 	},
-	"event8": {
+	"event9": {
 		"title": "SF Bike Party",
 		"start": "11/04/2016",
 		"end": "11/04/2016",
@@ -63,7 +70,7 @@
 		"series": "Ride",
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
-	"event9": {
+	"event10": {
 		"title": "North American Bike Share Conference",
 		"start": "11/09/2016",
 		"end": "11/11/2016",
@@ -71,7 +78,7 @@
 		"series": "Conf",
 		"url": "http://nabsa.net/"
 	},
-	"event10": {
+	"event11": {
 		"title": "Sunday Streets - Embarcadero",
 		"start": "11/13/2016",
 		"end": "11/13/2016",
@@ -79,7 +86,7 @@
 		"series": "Festival",
 		"url": "http://www.sundaystreetssf.com/embarcadero-111316/"
 	},
-	"event11": {
+	"event12": {
 		"title": "Midnight Mystery Ride",
 		"start": "11/19/2016",
 		"end": "11/19/2016",
@@ -87,7 +94,7 @@
 		"series": "Ride",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event12": {
+	"event13": {
 		"title": "San Francisco Critical Mass",
 		"start": "11/25/2016",
 		"end": "11/25/2016",
@@ -95,7 +102,7 @@
 		"series": "Ride",
 		"url": "http://www.sfcriticalmass.org/"
 	},
-	"event13": {
+	"event14": {
 		"title": "SF Bike Party",
 		"start": "12/02/2016",
 		"end": "12/02/2016",
@@ -103,7 +110,21 @@
 		"series": "Ride",
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
-	"event14": {
+	"event15": {
+		"title": "<td>Gran Premio de San Jos?</td>",
+		"start": "12/11/2016",
+		"end": "12/11/2016",
+		"state": "",
+		"series": "UCI America Tour"
+	},
+	"event16": {
+		"title": "Vuelta Popular a Costa Rica",
+		"start": "12/13/2016",
+		"end": "12/25/2016",
+		"state": "",
+		"series": "UCI America Tour"
+	},
+	"event17": {
 		"title": "Midnight Mystery Ride",
 		"start": "12/17/2016",
 		"end": "12/17/2016",
@@ -111,7 +132,7 @@
 		"series": "Ride",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event15": {
+	"event18": {
 		"title": "San Francisco Critical Mass",
 		"start": "12/30/2016",
 		"end": "12/30/2016",
