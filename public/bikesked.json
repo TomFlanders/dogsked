@@ -1,21 +1,5 @@
 {
 	"event1": {
-		"title": "San Francisco Critical Mass",
-		"start": "10/28/2016",
-		"end": "10/28/2016",
-		"state": "CA",
-		"series": "Ride",
-		"url": "http://www.sfcriticalmass.org/"
-	},
-	"event2": {
-		"title": "San Diego CicloSDias",
-		"start": "10/30/2016",
-		"end": "10/30/2016",
-		"state": "CA",
-		"series": "Festival",
-		"url": "https://www.facebook.com/ciclosdias/"
-	},
-	"event3": {
 		"title": "SF Bike Party",
 		"start": "11/04/2016",
 		"end": "11/04/2016",
@@ -23,7 +7,7 @@
 		"series": "Ride",
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
-	"event4": {
+	"event2": {
 		"title": "North American Bike Share Conference",
 		"start": "11/09/2016",
 		"end": "11/11/2016",
@@ -31,7 +15,7 @@
 		"series": "Conf",
 		"url": "http://nabsa.net/"
 	},
-	"event5": {
+	"event3": {
 		"title": "Sunday Streets - Embarcadero",
 		"start": "11/13/2016",
 		"end": "11/13/2016",
@@ -39,7 +23,7 @@
 		"series": "Festival",
 		"url": "http://www.sundaystreetssf.com/embarcadero-111316/"
 	},
-	"event6": {
+	"event4": {
 		"title": "Midnight Mystery Ride",
 		"start": "11/19/2016",
 		"end": "11/19/2016",
@@ -47,7 +31,7 @@
 		"series": "Ride",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event7": {
+	"event5": {
 		"title": "San Francisco Critical Mass",
 		"start": "11/25/2016",
 		"end": "11/25/2016",
@@ -55,7 +39,7 @@
 		"series": "Ride",
 		"url": "http://www.sfcriticalmass.org/"
 	},
-	"event8": {
+	"event6": {
 		"title": "SF Bike Party",
 		"start": "12/02/2016",
 		"end": "12/02/2016",
@@ -63,21 +47,21 @@
 		"series": "Ride",
 		"url": "https://sfbikeparty.wordpress.com/"
 	},
-	"event9": {
+	"event7": {
 		"title": "Gran Premio de San Jos?",
 		"start": "12/11/2016",
 		"end": "12/11/2016",
 		"state": "CR",
 		"series": "UCI America Tour"
 	},
-	"event10": {
+	"event8": {
 		"title": "Vuelta Popular a Costa Rica",
 		"start": "12/13/2016",
 		"end": "12/25/2016",
 		"state": "CR",
 		"series": "UCI America Tour"
 	},
-	"event11": {
+	"event9": {
 		"title": "Midnight Mystery Ride",
 		"start": "12/17/2016",
 		"end": "12/17/2016",
@@ -85,7 +69,7 @@
 		"series": "Ride",
 		"url": "http://www.midnightmystery.org/sanfrancisco/"
 	},
-	"event12": {
+	"event10": {
 		"title": "San Francisco Critical Mass",
 		"start": "12/30/2016",
 		"end": "12/30/2016",
@@ -93,728 +77,728 @@
 		"series": "Ride",
 		"url": "http://www.sfcriticalmass.org/"
 	},
-	"event13": {
+	"event11": {
 		"title": "San Bruno Hill Climb",
 		"start": "01/01/2017",
 		"end": "01/01/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event14": {
+	"event12": {
 		"title": "Early Bird Criterium Training Series #1",
 		"start": "01/08/2017",
 		"end": "01/08/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event15": {
+	"event13": {
 		"title": "Clovis Criterium Training Series #1",
 		"start": "01/08/2017",
 		"end": "01/08/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event16": {
+	"event14": {
 		"title": "Early Bird Criterium Training Series #2",
 		"start": "01/15/2017",
 		"end": "01/15/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event17": {
+	"event15": {
 		"title": "Clovis Criterium Training Series #2",
 		"start": "01/15/2017",
 		"end": "01/15/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event18": {
-		"title": "Early Bird Criterium Training Series #3",
-		"start": "01/22/2017",
-		"end": "01/22/2017",
-		"state": "CA",
-		"series": "NCNCA"
-	},
-	"event19": {
+	"event16": {
 		"title": "Clovis Criterium Training Series #3",
 		"start": "01/22/2017",
 		"end": "01/22/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event20": {
+	"event17": {
+		"title": "Early Bird Criterium Training Series #3",
+		"start": "01/22/2017",
+		"end": "01/22/2017",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event18": {
 		"title": "Cal Aggie Criterium",
 		"start": "01/28/2017",
 		"end": "01/28/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event21": {
+	"event19": {
 		"title": "Central Coast Road Series #1",
 		"start": "01/28/2017",
 		"end": "01/28/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event22": {
+	"event20": {
 		"title": "Early Bird Criterium Training Series #4",
 		"start": "01/29/2017",
 		"end": "01/29/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event23": {
+	"event21": {
 		"title": "Clovis Criterium Training Series #4",
 		"start": "01/29/2017",
 		"end": "01/29/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event24": {
+	"event22": {
 		"title": "Folsom Winter Criterium",
 		"start": "02/04/2017",
 		"end": "02/04/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event25": {
+	"event23": {
 		"title": "The Bump Circuit Race (Winter) - RKO#1",
 		"start": "02/05/2017",
 		"end": "02/05/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event26": {
+	"event24": {
 		"title": "Central Coast Road Series #2",
 		"start": "02/11/2017",
 		"end": "02/11/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event27": {
+	"event25": {
 		"title": "Masters OTF Omnium",
 		"start": "02/11/2017",
 		"end": "02/12/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event28": {
+	"event26": {
 		"title": "Wine Country Road Race",
 		"start": "02/12/2017",
 		"end": "02/12/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event29": {
+	"event27": {
 		"title": "Copper Town Circuit Race - VP#1",
 		"start": "02/18/2017",
 		"end": "02/18/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event30": {
+	"event28": {
 		"title": "Cantua Creek Road Race - VP#2",
 		"start": "02/19/2017",
 		"end": "02/19/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event31": {
+	"event29": {
 		"title": "Dinuba Criterium - VP#3",
 		"start": "02/20/2017",
 		"end": "02/20/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event32": {
+	"event30": {
 		"title": "Cherry Pie Criterium",
 		"start": "02/20/2017",
 		"end": "02/20/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event33": {
+	"event31": {
 		"title": "Snelling Road Race - VP#4",
 		"start": "02/25/2017",
 		"end": "02/25/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event34": {
+	"event32": {
 		"title": "Original Merced Criterium - VP#5",
 		"start": "02/26/2017",
 		"end": "02/26/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event35": {
+	"event33": {
 		"title": "Chico Stage Race - Stage 1: Thunderhill Circuit Race",
 		"start": "03/03/2017",
 		"end": "03/03/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event36": {
+	"event34": {
 		"title": "Chico Stage Race - Stage 2: Paskenta Hills RR",
 		"start": "03/04/2017",
 		"end": "03/04/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event37": {
-		"title": "Chico Stage Race - Stage 3: River Road TT",
-		"start": "03/05/2017",
-		"end": "03/05/2017",
-		"state": "CA",
-		"series": "NCNCA"
-	},
-	"event38": {
+	"event35": {
 		"title": "Central Coast Road Series #3",
 		"start": "03/05/2017",
 		"end": "03/05/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event39": {
+	"event36": {
+		"title": "Chico Stage Race - Stage 3: River Road TT",
+		"start": "03/05/2017",
+		"end": "03/05/2017",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event37": {
 		"title": "Chico Stage Race - Stage 4: Steve Harrison Memorial Criterium",
 		"start": "03/05/2017",
 		"end": "03/05/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event40": {
+	"event38": {
 		"title": "Land Park Criterium",
 		"start": "03/11/2017",
 		"end": "03/11/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event41": {
+	"event39": {
 		"title": "Ward&#039;s Ferry Road Race - VP#6",
 		"start": "03/11/2017",
 		"end": "03/11/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event42": {
+	"event40": {
 		"title": "Bariani Road Race",
 		"start": "03/12/2017",
 		"end": "03/12/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event43": {
+	"event41": {
 		"title": "Madera Stage Race: HC - VP#7",
 		"start": "03/17/2017",
 		"end": "03/17/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event44": {
+	"event42": {
 		"title": "Central Coast Road Series #4",
 		"start": "03/18/2017",
 		"end": "03/18/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event45": {
+	"event43": {
 		"title": "Madera Stage Race: Crit &amp; TT - VP#7",
 		"start": "03/18/2017",
 		"end": "03/18/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event46": {
+	"event44": {
 		"title": "Madera Stage Race: RR - VP#7",
 		"start": "03/19/2017",
 		"end": "03/19/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event47": {
+	"event45": {
 		"title": "Red Kite Criterium (March) - RKO#2",
 		"start": "03/19/2017",
 		"end": "03/19/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event48": {
+	"event46": {
 		"title": "Winchester Circuit Race - RKO#3",
 		"start": "03/25/2017",
 		"end": "03/25/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event49": {
+	"event47": {
 		"title": "Santa Cruz Classic Criterium XLVIII - VP#8",
 		"start": "03/26/2017",
 		"end": "03/26/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event50": {
+	"event48": {
 		"title": "Tempus Fugit Time Trial (Spring) - RKO#4",
 		"start": "03/26/2017",
 		"end": "03/26/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event51": {
+	"event49": {
 		"title": "California Classic Downtown Criterium",
 		"start": "04/01/2017",
 		"end": "04/01/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event52": {
+	"event50": {
 		"title": "Budweiser Sequoia Cycling Classic",
 		"start": "04/02/2017",
 		"end": "04/02/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event53": {
+	"event51": {
 		"title": "Turlock Lake Road Race",
 		"start": "04/08/2017",
 		"end": "04/08/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event54": {
+	"event52": {
 		"title": "Central Coast Road Series #5",
 		"start": "04/09/2017",
 		"end": "04/09/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event55": {
+	"event53": {
 		"title": "Turlock Criterium",
 		"start": "04/09/2017",
 		"end": "04/09/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event56": {
+	"event54": {
 		"title": "Copperopolis Road Race - VP#9",
 		"start": "04/15/2017",
 		"end": "04/15/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event57": {
+	"event55": {
 		"title": "Sea Otter Classic (April 20-23)",
 		"start": "04/20/2017",
 		"end": "04/23/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event58": {
+	"event56": {
 		"title": "Red Kite Criterium (April) - RKO#5",
 		"start": "04/23/2017",
 		"end": "04/23/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event59": {
+	"event57": {
 		"title": "Mike&#039;s Bikes Cat&#039;s Hill Classic",
 		"start": "04/29/2017",
 		"end": "04/29/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event60": {
+	"event58": {
 		"title": "Wente Vineyards Road Race",
 		"start": "04/30/2017",
 		"end": "04/30/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event61": {
-		"title": "King City Road Race",
-		"start": "05/06/2017",
-		"end": "05/06/2017",
-		"state": "CA",
-		"series": "NCNCA"
-	},
-	"event62": {
+	"event59": {
 		"title": "Golden State Race Series p/b Rio Strada Racing: Criterium",
 		"start": "05/06/2017",
 		"end": "05/06/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event63": {
+	"event60": {
+		"title": "King City Road Race",
+		"start": "05/06/2017",
+		"end": "05/06/2017",
+		"state": "CA",
+		"series": "NCNCA"
+	},
+	"event61": {
 		"title": "Golden State Race Series p/b Rio Strada Racing: Circuit",
 		"start": "05/07/2017",
 		"end": "05/07/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event64": {
+	"event62": {
 		"title": "Salinas Criterium",
 		"start": "05/07/2017",
 		"end": "05/07/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event65": {
+	"event63": {
 		"title": "Berkeley Hills Road Race",
 		"start": "05/13/2017",
 		"end": "05/13/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event66": {
+	"event64": {
 		"title": "Central Coast Road Series #6",
 		"start": "05/14/2017",
 		"end": "05/14/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event67": {
+	"event65": {
 		"title": "Modesto Downtown Criterium",
 		"start": "05/20/2017",
 		"end": "05/20/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event68": {
+	"event66": {
 		"title": "Modesto Road Race",
 		"start": "05/21/2017",
 		"end": "05/21/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event69": {
+	"event67": {
 		"title": "Folsom Classic Criterium",
 		"start": "05/27/2017",
 		"end": "05/27/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event70": {
+	"event68": {
 		"title": "Death Valley Road Stage Race",
 		"start": "05/27/2017",
 		"end": "05/28/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event71": {
+	"event69": {
 		"title": "Mount Hamilton Road Race",
 		"start": "05/28/2017",
 		"end": "05/28/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event72": {
+	"event70": {
 		"title": "Red Kite Criterium (May) - RKO#6",
 		"start": "05/29/2017",
 		"end": "05/29/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event73": {
+	"event71": {
 		"title": "Calaveras Time Trial",
 		"start": "05/29/2017",
 		"end": "05/29/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event74": {
+	"event72": {
 		"title": "Pescadero Road Race",
 		"start": "06/03/2017",
 		"end": "06/03/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event75": {
+	"event73": {
 		"title": "Lodi Cyclefest",
 		"start": "06/04/2017",
 		"end": "06/04/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event76": {
+	"event74": {
 		"title": "Mighty Tour de Nez",
 		"start": "06/10/2017",
 		"end": "06/10/2017",
 		"state": "",
 		"series": "NCNCA"
 	},
-	"event77": {
+	"event75": {
 		"title": "26th Annual Dash for Cash",
 		"start": "06/10/2017",
 		"end": "06/10/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event78": {
+	"event76": {
 		"title": "Central Coast Road Series #7",
 		"start": "06/11/2017",
 		"end": "06/11/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event79": {
+	"event77": {
 		"title": "Loyalton Time Trial",
 		"start": "06/11/2017",
 		"end": "06/11/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event80": {
+	"event78": {
 		"title": "Tri-Valley Criterium Classic - RKO#7",
 		"start": "06/17/2017",
 		"end": "06/17/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event81": {
+	"event79": {
 		"title": "Nevada City Cycling Classic",
 		"start": "06/18/2017",
 		"end": "06/18/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event82": {
+	"event80": {
 		"title": "Martinez Classic Downtown Criterium - RKO#8",
 		"start": "06/24/2017",
 		"end": "06/24/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event83": {
+	"event81": {
 		"title": "Auburn Downtown Criterium",
 		"start": "06/25/2017",
 		"end": "06/25/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event84": {
+	"event82": {
 		"title": "Burlingame Criterium",
 		"start": "06/25/2017",
 		"end": "06/25/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event85": {
+	"event83": {
 		"title": "Central Coast Road Series #8",
 		"start": "07/01/2017",
 		"end": "07/01/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event86": {
+	"event84": {
 		"title": "Lodoga Road Race - VP#10",
 		"start": "07/02/2017",
 		"end": "07/02/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event87": {
+	"event85": {
 		"title": "Davis Bike Club Fourth of July Criterium",
 		"start": "07/04/2017",
 		"end": "07/04/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event88": {
+	"event86": {
 		"title": "Watsonville Criterium - VP#11",
 		"start": "07/08/2017",
 		"end": "07/08/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event89": {
+	"event87": {
 		"title": "Red Kite Criterium (July) - RKO#9",
 		"start": "07/09/2017",
 		"end": "07/09/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event90": {
+	"event88": {
 		"title": "Central Coast Road Series #9",
 		"start": "07/15/2017",
 		"end": "07/15/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event91": {
+	"event89": {
 		"title": "Downtown Lakefront Criterium",
 		"start": "07/15/2017",
 		"end": "07/15/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event92": {
+	"event90": {
 		"title": "Colavita-Norcal Grand Prix",
 		"start": "07/16/2017",
 		"end": "07/16/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event93": {
+	"event91": {
 		"title": "Crossfire Hurricane Hill Climb Challenge - RKO#10",
 		"start": "07/22/2017",
 		"end": "07/22/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event94": {
+	"event92": {
 		"title": "The Bump Circuit Race (Summer) - RKO#11",
 		"start": "07/23/2017",
 		"end": "07/23/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event95": {
+	"event93": {
 		"title": "San Rafael Twilight Criterium",
 		"start": "07/29/2017",
 		"end": "07/29/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event96": {
+	"event94": {
 		"title": "Berkeley Bicycle Club Criterium - RKO#12",
 		"start": "07/30/2017",
 		"end": "07/30/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event97": {
+	"event95": {
 		"title": "Patterson Pass Road Race - VP#12 CC#1",
 		"start": "08/05/2017",
 		"end": "08/05/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event98": {
+	"event96": {
 		"title": "Red Kite Criterium (August) - RKO#13",
 		"start": "08/06/2017",
 		"end": "08/06/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event99": {
+	"event97": {
 		"title": "Dunnigan Hills Road Race - VP#13 CC#2",
 		"start": "08/12/2017",
 		"end": "08/12/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event100": {
+	"event98": {
 		"title": "Suisun Harbor Criterium - VP#14 CC#3",
 		"start": "08/13/2017",
 		"end": "08/13/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event101": {
+	"event99": {
 		"title": "San Ardo Road Race - VP#15 CC#4",
 		"start": "08/19/2017",
 		"end": "08/19/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event102": {
+	"event100": {
 		"title": "Tempus Fugit Time Trial (Summer) - RKO#14",
 		"start": "08/20/2017",
 		"end": "08/20/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event103": {
+	"event101": {
 		"title": "University Road Race - VP#16 CC#5",
 		"start": "08/20/2017",
 		"end": "08/20/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event104": {
+	"event102": {
 		"title": "Winters Road Race - VP#17 CC#6",
 		"start": "08/26/2017",
 		"end": "08/26/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event105": {
+	"event103": {
 		"title": "Mt. Whitney Stage Race",
 		"start": "08/26/2017",
 		"end": "08/27/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event106": {
+	"event104": {
 		"title": "Vacaville Gran Prix - VP#18 CC#7",
 		"start": "08/27/2017",
 		"end": "08/27/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event107": {
+	"event105": {
 		"title": "Red Kite Omnium Championship Weekend: Day 1 - RKO#15",
 		"start": "09/02/2017",
 		"end": "09/02/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event108": {
+	"event106": {
 		"title": "Red Kite Omnium Championship Weekend: Day 2 - RKO#15",
 		"start": "09/03/2017",
 		"end": "09/03/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event109": {
+	"event107": {
 		"title": "Giro di San Francisco - VP#19 CC#8",
 		"start": "09/04/2017",
 		"end": "09/04/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event110": {
+	"event108": {
 		"title": "Mt Diablo Hill Climb TT",
 		"start": "09/09/2017",
 		"end": "09/09/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event111": {
+	"event109": {
 		"title": "Central Coast Road Series #10",
 		"start": "09/10/2017",
 		"end": "09/10/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event112": {
+	"event110": {
 		"title": "Esparto Time Trial - VP#20 CC#9",
 		"start": "09/16/2017",
 		"end": "09/16/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event113": {
+	"event111": {
 		"title": "13th Annual Oakland Grand Prix - VP#21 CC#10",
 		"start": "09/17/2017",
 		"end": "09/17/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event114": {
+	"event112": {
 		"title": "Henleyville Road Race - VP#22",
 		"start": "09/23/2017",
 		"end": "09/23/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event115": {
+	"event113": {
 		"title": "Everest Challenge Stage Race",
 		"start": "09/23/2017",
 		"end": "09/24/2017",
 		"state": "CA",
 		"series": "NCNCA"
 	},
-	"event116": {
+	"event114": {
 		"title": "Copper Town Circuit Race - VP#23",
 		"start": "09/24/2017",
 		"end": "09/24/2017",
