@@ -7,4 +7,5 @@ gulp.task('gitter', function () {
       .pipe(git.add({args: '*'}))
       .pipe(git.commit('schedule updated'))
       ;
+    git.push();
 });
