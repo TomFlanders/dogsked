@@ -7,7 +7,7 @@ gulp.task('gitter', function () {
       .pipe(git.add({args: '*'}))
       .pipe(git.commit('schedule updated'))
       ;
-      git.push('origin', 'https://github.com/TomFlanders/dogsked', function (err) {
+      git.push('origin', 'https://github.com/TomFlanders/dogsked.git', function (err) {
           if (err) throw err;
       });
 });
