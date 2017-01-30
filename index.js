@@ -23,6 +23,32 @@ app.get('/listEvents', function (req, res) {
    });
 })
 
+app.get('/randie', function (req, res) {
+var data2 = "";
+for(i=0;i<5;i++)
+{
+  var data = "";
+  var nouns = ["Jane","Hubert"]
+  var verbs = ["sees","saw","swam"];
+  var punct = [".",".",".","!"];
+  var nounno = getRandomInt(0,nouns.length)
+  var verbno = getRandomInt(0,verbs.length)
+  var punctno = getRandomInt(0,punct.length)
+  data = data + nouns[nounno] + " ";
+    data = data + verbs[verbno];
+    data = data + punct[punctno];
+    data = data + "\n";
+    data2 = data2 + data;
+}
+  res.send( data2 );
+})
+
+function getRandomInt(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
 app.use(function(req,res,next){
   res.type('text/plain');
   res.status(404);
