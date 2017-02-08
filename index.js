@@ -13,12 +13,23 @@ app.disable('x-powered-by');
 
 app.get('/', function (req, res) {
   res.type('text/plain');
-  res.send('Usage: https://dogsked.herokuapp.com/listevents');
+  res.send('Usage: https://dogsked.herokuapp.com/listEvents or https://dogsked.herokuapp.com/listRides https://dogsked.herokuapp.com/listOther');
 })
 
 app.get('/listEvents', function (req, res) {
    fs.readFile(__dirname + "/public/bikesked.json", 'utf8', function (err, data) {
-       console.log( "Hit" );
+       res.end( data );
+   });
+})
+
+app.get('/listRides', function (req, res) {
+   fs.readFile(__dirname + "/public/ridesked.json", 'utf8', function (err, data) {
+       res.end( data );
+   });
+})
+
+app.get('/listOther', function (req, res) {
+   fs.readFile(__dirname + "/public/othersked.json", 'utf8', function (err, data) {
        res.end( data );
    });
 })
