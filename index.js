@@ -34,6 +34,12 @@ app.get('/listOther', function (req, res) {
    });
 })
 
+app.get('/listCars', function (req, res) {
+   fs.readFile(__dirname + "/public/raceked.json", 'utf8', function (err, data) {
+       res.end( data );
+   });
+})
+
 app.get('/randie', function (req, res) {
 var data2 = "";
 for(i=0;i<5;i++)
