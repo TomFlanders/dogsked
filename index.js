@@ -35,7 +35,7 @@ app.get('/listOther', function (req, res) {
 })
 
 app.get('/listCars', function (req, res) {
-   fs.readFile(__dirname + "/public/raceked.json", 'utf8', function (err, data) {
+   fs.readFile(__dirname + "/public/racesked.json", 'utf8', function (err, data) {
        res.end( data );
    });
 })
